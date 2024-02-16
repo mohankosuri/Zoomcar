@@ -20,11 +20,11 @@ import RecipeReviewCard from './Card'
     return Cat;
   }
 
-  let NewOne = New()
+  let NewOne1 = New()
 
 
 
-  console.log(NewOne())
+  console.log(NewOne1())
 
    
 
