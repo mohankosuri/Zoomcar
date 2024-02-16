@@ -8,7 +8,7 @@ import RecipeReviewCard from './Card'
  const App = () => {
 
      
-  var x = 20;
+  
 
   function New(){
     var y = 50;
